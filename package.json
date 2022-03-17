@@ -1,9 +1,0 @@
-{
-  "name": "starfish",
-  "version": "1.0.0",
-  "description": "ibis frontend",
-  "main": "index.js",
-  "repository": "git@github.com:wanglei4687/starfish.git",
-  "author": "lei <wanglei4687@gmail.com>",
-  "license": "Apache-2.0"
-}
